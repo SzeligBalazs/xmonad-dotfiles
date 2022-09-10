@@ -1,0 +1,2 @@
+Hello!
+If you'd like to use xmobarrc you need to copy it to your home directory and you need to rename it to .xmobarrc!
