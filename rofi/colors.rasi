@@ -1,0 +1,9 @@
+/* Colors by SzeligBalazs */
+
+* {
+  al:  #00000000;
+  bg:  #181818ff;
+  se:  #101010ff;
+  fg:  #D8D8D8ff;
+  ac:  #D8D8D8ff;
+}

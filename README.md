@@ -14,5 +14,6 @@ Wallpaper is [here](https://unsplash.com/photos/bAzDhilQFsA).
 
 ## Screenshots
 ![Screenshots](https://preview.redd.it/veifyluh2zm91.png?width=640&crop=smart&auto=webp&s=9a7264786af37ebba3c4ecbead29460900bca12b)
+<br>
 Thank you for all positive feedback!
 
